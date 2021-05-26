@@ -1,5 +1,5 @@
 # GrocMan
-GrocMan- An IoT based grocery management system is a smart and new way of grocery shopping that acts as our helper and re-defines the approach towards grocery shopping. Here we are going to monitor the weight of groceries and if it goes under threshold value then the order will be placed for shopping of that particular grocery. This system introduces us to the simple implementation and  usable application with the low-cost solution to the common man.
+GrocMan- An IoT based grocery management system is a smart and new way of grocery shopping that acts as our helper and re-defines the approach towards grocery shopping. Here we are going to monitor the weight of groceries and if it goes under threshold value then the user will be notified via mail and order will be placed for shopping of that particular grocery. This system introduces us to the simple implementation and  usable application with the low-cost solution to the common man.
 
 ● Guide to Access Application
 1.	Connect to the WiFi
